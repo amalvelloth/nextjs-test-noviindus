@@ -10,7 +10,7 @@ export default function PhoneInput({ formData, updateFormData, onNext }) {
   };
 
   return (
-    <div className='flex flex-col gap-[10rem]'>
+    <div className='flex flex-col justify-between h-full'>
       <div className="top">
         <h2 className="text-xl font-semibold mb-4 text-[#1C3141]">Enter your phone number</h2>
         <p className="text-sm text-[#1C3141] mb-4">We use your mobile number to identify your account</p>
