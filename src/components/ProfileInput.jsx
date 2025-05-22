@@ -25,7 +25,7 @@ export default function ProfileInput({ formData, updateFormData, onPrev, onSubmi
 
   return (
     <div className='flex flex-col justify-between h-full'>
-      <div className="top">
+      <div className="top h-auto">
         <h2 className="text-xl font-semibold mb-4 text-[#1C3141]">Add your details</h2>
         <div className="flex justify-center mb-4">
           <label className="relative cursor-pointer">
