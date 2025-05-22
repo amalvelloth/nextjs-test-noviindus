@@ -18,7 +18,7 @@ export default function CodeInput({ formData, updateFormData, onNext, onPrev }) 
           type="text"
           value={code}
           onChange={(e) => setCode(e.target.value)}
-          placeholder="123 456"
+          placeholder="6 digit code"
           className="w-full p-3 border rounded-md text-[#1C3141] mb-4 focus:outline-none focus:ring-2 focus:ring-blue-500"
         />
         <p className="text-sm font-bold text-[#1C3141] mb-4 cursor-pointer hover:underline">Resend code</p>
