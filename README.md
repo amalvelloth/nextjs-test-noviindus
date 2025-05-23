@@ -4,7 +4,7 @@
 
   <br><br>
 
-  <h2>🧠 NexLearn Quiz Website</h2>
+  <h2>NexLearn Quiz Website</h2>
 
   <p style="max-width: 700px;">
     The UI of the <strong>NexLearn Quiz</strong> website is clean and user-friendly, designed with <strong>Tailwind CSS</strong> and a modern look.
