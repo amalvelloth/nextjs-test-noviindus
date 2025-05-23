@@ -1,4 +1,4 @@
-[<div align="center">
+<div align="center">
 
   <img src="https://github.com/user-attachments/assets/312547e5-4595-4cee-a2e4-92cffe415979" alt="NexLearn Quiz Demo" width="700"/>
 
