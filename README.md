@@ -1,7 +1,6 @@
 <div align="center">
 
   <img src="https://github.com/user-attachments/assets/39f3c62b-2d6a-42e6-b09a-2cb876b83b47" alt="NexLearn Quiz Demo" width="700"/>
-![Untitled video - Made with Clipchamp (1)](https://github.com/user-attachments/assets/3f3e3d17-b430-4ced-8773-47e788fa5dc0)
   <br><br>
 
 
